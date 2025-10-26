@@ -1,7 +1,7 @@
 # Проекты: SQL
 
 ## 🔍 Быстрая навигация по проектам
-- **Секреты темнолесья - расчет метрик по покупкам в игре**
+- **Секреты темнолесья - расчет метрик по покупкам в игре** `CASE`, `JOIN`, `Оконные функции`, `Подзапросы`
   - [Описание проекта](https://github.com/sabicklove1/SQL/blob/main/Forest/README.md)
   - [Код с описанием](https://github.com/sabicklove1/SQL/blob/main/Forest/Forest_secret.sql)
 
