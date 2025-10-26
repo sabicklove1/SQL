@@ -5,7 +5,7 @@
   - [Описание проекта](https://github.com/sabicklove1/SQL/blob/main/Forest/README.md)
   - [Код с описанием](https://github.com/sabicklove1/SQL/blob/main/Forest/Forest_secret.sql)
 
-- **Анализ донорской активности DonorSearch**
+- **Анализ донорской активности DonorSearch. Использовались: `CASE`, `JOIN`, `Подзапросы`, `Расчет метрик`**
   - [Описание проекта](https://github.com/sabicklove1/SQL/blob/main/Donor_search/readme.md)
   - [Код SQL](https://github.com/sabicklove1/SQL/blob/main/Donor_search/Donor_search.sql)
 
